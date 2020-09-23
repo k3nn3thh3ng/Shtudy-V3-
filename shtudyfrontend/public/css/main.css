@@ -1,0 +1,50 @@
+/* .billboard-banner-container {
+    display: block;
+    margin: 0 auto 6.4rem auto;
+    position: relative;
+    width: 100%;
+}
+
+@media (min-width: 61.31em) { 
+    .billboard-banner-container {
+        max-width: 134rem;
+    }
+}
+
+.billboard-banner-container .billboard-image-container img{
+    width: 100%;
+}
+
+img {
+    max-width: 100%;
+    height: auto
+}
+
+.shtudylite-container {
+    width: 100%;
+    max-width: 134rem;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 2.4rem;
+    padding-left: 2.4rem;
+}
+
+body {
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 1.6rem;
+    color: #3c3b37;
+    margin: 0;
+}
+
+div {
+    display: block
+}
+
+html {
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+    font-size: 62.5%;
+} */
